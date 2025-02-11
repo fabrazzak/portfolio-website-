@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Parcel Management System",
+    "image": "https://i.ibb.co.com/GfSRnLhj/laptop-3.png",
+    "overview": "A comprehensive MERN stack application for parcel booking, delivery management, and user interactions.",
+    "liveDemo": "https://parcel-management-app-d81f7.web.app/",
+    "github": "https://github.com/fabrazzak/Parcel-management-appk-client", 
+    "adminAccess": {
+      "email": "admin@gmail.com",
+      "password": "Admin11"
+    },
+    "deliveryMenAccess": {
+      "email": "delivery-man@gmail.com",
+      "password": "delivery-man11"
+    },
+    "techStack": [
+      "React",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Shadcn",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase Authentication",
+      "Stripe",
+      "Tanstack Query"
+    ],
+    "installation": "Clone repositories, set up environment variables, install dependencies, and run development servers."
+  },
+  {
+    "name": "Product Recommendation Platform",
+    "image": "https://i.ibb.co.com/9Hs17q9y/laptop2-720x450.webp",
+    "overview": "A platform for product queries and recommendations, with CRUD operations, authentication, and dynamic layout.",
+    "liveDemo": "https://queries-b074f.web.app/",
+    "github": "https://github.com/fabrazzak/RecommendHub-query-website--client", 
+    "techStack": [
+      "React",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT Authentication",
+      "Firebase"
+    ],
+    "installation": "Clone repositories, set up environment variables, install dependencies, and run the development servers."
+  },
+  {
+    "name": "EquiSports: Sports Equipment Online Store",
+    "image": "https://i.ibb.co.com/9HyH5m2L/laptop-3-720x450.webp",
+    "overview": "An online store for sports equipment with user authentication, CRUD operations, theme toggle, and interactive UI components.",
+    "liveDemo": "https://equi-sports-6a027.web.app/",
+    "github": "https://github.com/fabrazzak/Equipment-sports", 
+    "techStack": [
+      "React",
+      "React Router",
+      "TailwindCSS",
+      "Lottie React",
+      "React Awesome Reveal",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase Authentication"
+    ],
+    "hosting": [
+      "Netlify (Client)",
+      "Vercel (Server)"
+    ],
+    "installation": "Clone the repository, set up environment variables, install dependencies, and run the project."
+  },
+  {
+    "name": "GadgetHaven - E-commerce Platform",
+    "image": "https://i.ibb.co.com/R4GC0SFr/laptop1-720x450.webp",
+    "overview": "A modern e-commerce platform with features such as product filtering, cart and wishlist management, and a responsive design.",
+    "liveDemo": "https://gadget-1heaven.netlify.app/",
+    "github": "https://github.com/fabrazzak/Gadget-Heaven", 
+    "techStack": [
+      "React",
+      "React Router",
+      "Context API",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "installation": "Clone the repository, install dependencies, and run the development server."
+  }
+]
